@@ -13,8 +13,8 @@ Feature: Create new Account with Random Email
       """
       {
         "email": "#(email)",
-        "firstName": "Mohammad",
-        "lastName": "Shokriyan",
+        "firstName": "Hamed",
+        "lastName": "A",
         "title": "Mr.",
         "gender": "MALE",
         "maritalStatus": "Single",
