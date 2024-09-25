@@ -35,7 +35,8 @@
                 </excludes>
             </testResource>
         </testResources>
-    </build>
+
+
 
         <plugins>
             <plugin>
@@ -49,6 +50,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        </build>
 
 
 </project>
